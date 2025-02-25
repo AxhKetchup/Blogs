@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aayush&#39;s blog</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Aayush&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Feb 2025 00:54:21 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>whoami</title>
+      <link>//localhost:1313/post/whoami/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/whoami/</guid>
+      <description>&lt;h1 id=&#34;whoami-&#34;&gt;&lt;strong&gt;whoami&lt;/strong&gt; 🧑‍💻&lt;/h1&gt;&#xA;&lt;p&gt;Hey there! I&amp;rsquo;m Aayush—a command-line enthusiast, digital wanderer, and someone who believes life is best lived with a mix of &lt;code&gt;sudo privileges&lt;/code&gt; and spontaneous &lt;code&gt;rm -rf comfort-zone/&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-cat-etcabout_&#34;&gt;&lt;strong&gt;$ cat /etc/about_me&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🖥️ &lt;strong&gt;System Uptime&lt;/strong&gt;: Still running, but occasionally needs a reboot.&lt;/li&gt;&#xA;&lt;li&gt;🎯 &lt;strong&gt;Current Focus&lt;/strong&gt;: Writing, breaking, and fixing things (in that order).&lt;/li&gt;&#xA;&lt;li&gt;🛠️ &lt;strong&gt;Tech Stack&lt;/strong&gt;: A little bit of everything, from C++ and Rust to setting up obscure Linux configurations for fun.&lt;/li&gt;&#xA;&lt;li&gt;🚀 &lt;strong&gt;Hobbies&lt;/strong&gt;: Climbing digital and literal mountains.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;-ps-aux--grep-adventure&#34;&gt;&lt;strong&gt;$ ps aux | grep adventure&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Life&amp;rsquo;s a rolling release, and I’m just here applying patches as I go. Whether it’s setting up a new system, working on passion projects, or just getting lost in deep tech rabbit holes, I love exploring.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

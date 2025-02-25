@@ -1,3 +1,51 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "/"
+languageCode = "en-us"
+title = "Aayush's blog"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Aayush"
+  description = "In solitude, where we are least alone."
+  github = "AxhKetchup"
+  facebook = "AxhKetchup"
+  twitter = "AxhKetchup"
+  linkedin = "AxhKetchup"
+  instagram = "AxhKetchup"
+  tumblr = "AxhKetchup"
+  email = "aayushprajapati0807@gmail.com"
+  url = "https://AxhKetchup.com"
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "😀"
+  favicon = "/images/github.png"
+  avatar = "images/okarin.jpg"
+  headerIcon = "/images/GitHub-Mark-Light-32px.png"
+  location = "India"
+  enableGitalk = true
+  custom_css = ["css/custom.css"]
+  custom_js = ["js/custom.js"]
+
+  [params.gitalk]
+    clientID = "Your client ID"
+    clientSecret = "Your client secret"
+    repo = "repo"
+    owner = "ash"
+    admin = "ash"
+    id = "location.pathname"
+    labels = "gitalk"
+    perPage = 15
+    pagerDirection = "last"
+    createIssueManually = true
+    distractionFreeMode = false
+
+
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[services]
+  [services.googleAnalytics]
+    ID = "UA-123456-789"
